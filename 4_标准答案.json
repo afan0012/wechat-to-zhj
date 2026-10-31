@@ -1,0 +1,156 @@
+[
+  {
+    "customer": "阿兰",
+    "date": "2026-10-21",
+    "items": [
+      {
+        "code": "YR001",
+        "qty": 50,
+        "price": 147
+      },
+      {
+        "code": "JL001",
+        "qty": 5,
+        "price": null
+      }
+    ],
+    "remark": "",
+    "note": "改价消息覆盖原价；「再加5件鸡柳」合并进同一张单"
+  },
+  {
+    "customer": "北街摇滚炒鸡",
+    "date": "2026-10-21",
+    "items": [
+      {
+        "code": "JL001",
+        "qty": 5,
+        "price": null
+      },
+      {
+        "code": "SL001",
+        "qty": 3,
+        "price": null
+      },
+      {
+        "code": "JM001",
+        "qty": 2,
+        "price": null
+      },
+      {
+        "code": "NW001",
+        "qty": 2,
+        "price": null
+      }
+    ],
+    "remark": "",
+    "note": "牛丸→撒尿牛丸；「雪花啤酒」系统无此货品，应标红让人处理"
+  },
+  {
+    "customer": "东门双明超市",
+    "date": "2026-10-21",
+    "items": [
+      {
+        "code": "JY002",
+        "qty": 200,
+        "price": 63
+      },
+      {
+        "code": "JY002",
+        "qty": 89,
+        "price": 0
+      }
+    ],
+    "remark": "不用送货，先记账，货款已付",
+    "note": "赠品单独一行、单价0"
+  },
+  {
+    "customer": "南镇小宇商行",
+    "date": "2026-10-21",
+    "items": [
+      {
+        "code": "JY001",
+        "qty": 25,
+        "price": null
+      }
+    ],
+    "remark": "补10.19号搭赠；10.11已送10件，余15件",
+    "note": "含历史账务信息，应标黄让人确认"
+  },
+  {
+    "customer": "王哥门市",
+    "date": "2026-10-21",
+    "items": [
+      {
+        "code": "YW001",
+        "qty": 10,
+        "price": null
+      },
+      {
+        "code": "HY001",
+        "qty": 2,
+        "price": null
+      },
+      {
+        "code": "YM001",
+        "qty": 3,
+        "price": null
+      }
+    ],
+    "remark": "按老价",
+    "note": "中文数字；箱=件；「按老价」应取该客户上次成交价"
+  },
+  {
+    "customer": "李记麻辣烫",
+    "date": "2026-10-21",
+    "items": [
+      {
+        "code": "YR002",
+        "qty": 3,
+        "price": null
+      },
+      {
+        "code": "SZ001",
+        "qty": 4,
+        "price": null
+      }
+    ],
+    "remark": "",
+    "note": "必须匹配到小包装 YR002，不能是 YR001"
+  },
+  {
+    "customer": "老张烧烤",
+    "date": "2026-10-21",
+    "items": [
+      {
+        "code": "JT001",
+        "qty": 15,
+        "price": null
+      },
+      {
+        "code": "HC001",
+        "qty": 1,
+        "price": null
+      }
+    ],
+    "remark": "鸡腿昨天少送2件这次补上",
+    "note": "后续改量消息 20→15"
+  },
+  {
+    "customer": "小美便利店",
+    "date": "2026-10-21",
+    "items": [
+      {
+        "code": "WC001",
+        "qty": 2,
+        "price": null
+      },
+      {
+        "code": "HC001",
+        "qty": 2,
+        "price": null
+      }
+    ],
+    "remark": "送货地址幸福路18号",
+    "note": "新客户，系统里没有，应提示先建客户"
+  }
+]
